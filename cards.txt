@@ -1,0 +1,5 @@
+What is Dione's favorite beverage?,Kombucha,Mixology
+What is the capital of Montana?,Helena,Geography
+How many hydrogens are in water?,2,STEM
+How many licks does it take to get to the center of a tootsie pop?,3,General
+What is the square root of 25?,5,STEM
